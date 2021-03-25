@@ -14,8 +14,8 @@ Sub StockData():
         
         
         ' Find Last Row
-        'LastRow = ws.Cells(Rows.Count, "A").End(x1Up).Row
-        'MsgBox (LastRow)
+        LastRow = Cells(Rows.Count, 1).End(xlUp).Row
+       
         
         'Define other variables
         Ticker = 1
