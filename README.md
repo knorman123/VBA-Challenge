@@ -15,9 +15,12 @@
 * I also made adjustments to my script so that it would run on every worksheet when running the script once.
 
 ## Screenshots from the Assignment:
-###2016
+*2016
+
 ![2016](Images/2016_Stock_Data.png)
-###2015
+*2015
+
 ![2015](Images/2015_Stock_Data.png)
-###2014
+*2014
+
 ![2014](Images/2014_Stock_Data.png)
